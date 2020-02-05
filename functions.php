@@ -29,7 +29,7 @@ echo <<<EOT
     		<h1>Image Gallery</h1>
             <a href="index.php"><i class="fas fa-image"></i>Home</a>
 			<a href="login.php"><i class="fas fa-image"></i>Login</a>
-			<a href="registration.php"><i class="fas fa-image"></i>Registration</a>
+			<a href="registration/register.php"><i class="fas fa-image"></i>Registration</a>
     	</div>
     </nav>
 EOT;
